@@ -1,11 +1,11 @@
 import React from "react";
-
 export default function loginPage(){
   return(
   <div style={{
   backgroundImage:"url(/img5.png)",
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
+
  } }>
   <div class=" min-h-screen flex flex-col">
                     <div class="container max-w-sm mx-auto flex-1 flex flex-col items-center justify-center px-2">
